@@ -1,0 +1,80 @@
+const perguntas =[
+{
+enunciado:"voçê tem mais medo de:",
+alternativas:[
+{
+texto:"aranhas",
+afirmação:"Em qualquer lugar eu posso encontrar aranhas"
+}
+{
+texto:"solidão"
+afirmação:"Cada dia que se passa eu perco mais a esperança"
+}
+]
+}
+{
+    enunciado:"O que voçẽ prefere",
+alternativas:[
+{
+texto:"famílía",
+afirmação:""
+}
+{
+texto:""
+afirmação:""
+}
+]
+}
+{
+    enunciado:"",
+alternativas:[
+{
+texto:"",
+afirmação:""
+}
+{
+texto:""
+afirmação:""
+}
+]
+}
+{
+    enunciado:"",
+alternativas:[
+{
+texto:"",
+afirmação:""
+}
+{
+texto:""
+afirmação:""
+}
+]
+}
+{
+    enunciado:"",
+alternativas:[
+{
+texto:"",
+afirmação:""
+}
+{
+texto:""
+afirmação:""
+}
+]
+}
+{
+    enunciado:"",
+alternativas:[
+{
+texto:"",
+afirmação:""
+}
+{
+texto:""
+afirmação:""
+}
+]
+}
+{
