@@ -1,79 +1,79 @@
 const perguntas =[
 {
-enunciado:"voçê tem mais medo de:",
+enunciado: "voçê tem mais medo de:",
 alternativas:[
 {
-texto:"aranhas",
-afirmação:"Em qualquer lugar eu posso encontrar aranhas"
+texto: "aranhas",
+afirmação: "Em qualquer lugar eu posso encontrar aranhas"
 }
 {
-texto:"solidão"
-afirmação:"Cada dia que se passa eu perco mais a esperança"
+texto: "solidão",
+afirmação: "Cada dia que se passa eu perco mais a esperança"
 }
 ]
 }
 {
-    enunciado:"O que voçẽ prefere",
+    enunciado: "O que voçẽ prefere?",
 alternativas:[
 {
-texto:"famílía",
-afirmação:""
+texto: "Famílía",
+afirmação: "Quando isso acontece eu busco por minha família"
 }
 {
-texto:""
-afirmação:""
+texto: "amigos",
+afirmação: "sem amigos por perto eu fico com medo"
 }
 ]
 }
 {
-    enunciado:"",
+    enunciado: "você se define uma pessoa:",
 alternativas:[
 {
-texto:"",
-afirmação:""
+texto: "independente",
+afirmação: "Mas eu sei que consigo enfrentar tudo sozinho"
 }
 {
-texto:""
-afirmação:""
+texto: "Dependente",
+afirmação: "Pedir por ajuda pode ser bom"
 }
 ]
 }
 {
-    enunciado:"",
+    enunciado: "você se define uma pessoa:",
 alternativas:[
 {
-texto:"",
-afirmação:""
+texto: "Confiante",
+afirmação: "Assim eu posso enfrentar o meu medo"
 }
 {
-texto:""
-afirmação:""
+texto: "Desconfiada",
+afirmação: "Se eu não conseguir eu tento novamente"
 }
 ]
 }
 {
-    enunciado:"",
+    enunciado: "você é mais:",
 alternativas:[
 {
-texto:"",
-afirmação:""
+texto: "Paciente",
+afirmação: "Não importa qunto tempo demore"
 }
 {
-texto:""
-afirmação:""
+texto: "Inpaciente",
+afirmação: "até eu conseguir o meu resultad"o,
 }
 ]
 }
 {
-    enunciado:"",
+    enunciado: "Você tem mais:",
 alternativas:[
 {
-texto:"",
-afirmação:""
+texto: "Bravura",
+afirmação: "eu vou sber que isso valeu a pena"
 }
 {
-texto:""
-afirmação:""
+texto: 'Determinação",
+afirmação: "Eu nunca vou desistir"
 }
 ]
 }
